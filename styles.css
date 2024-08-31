@@ -1,12 +1,12 @@
 *{
-	background-color: rgb(204, 204, 204)	;
+	background-color: rgb(204, 204, 204);
 }
 .heading{
 	text-align:center;
 }
-	.heading1{
+.heading1{
 	text-align:center;
-	background-color:white;
+	background-color:white
 }
 p{
 	background-color:white;
@@ -16,7 +16,7 @@ p{
 	border:1px solid black;
 	border-radius:10px;
 	width:90vw;
-	heigth:100px;
+	height:100px;
 	margin-inline:20px;
 }
 .Lower{
@@ -28,7 +28,7 @@ p{
 	margin-inline:45px;
 }
 .player_two{
-background-color:white;
+	background-color:white;
 	width:90%;
 	margin-inline:5%;
 }
@@ -43,7 +43,7 @@ p{
 	margin-left:20px;
 }
 a{
-text-decoration-line: none;	
+	text-decoration-line: none;	
 }
 li{
 	list-style-type: none;
