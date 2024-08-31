@@ -27,12 +27,12 @@ p{
 	heigth:100px;
 	margin-inline:45px;
 }
-audio{
+.player_two{
 background-color:white;
 	width:90%;
 	margin-inline:5%;
 }
-video{
+.player_one{
 	width:70vw;
 	heigth:auto;
 	margin-inline:5vw;
@@ -40,4 +40,7 @@ video{
 }
 p{
 	margin-left:20px;
+}
+li{
+text-decoration-line: none;	
 }
