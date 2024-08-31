@@ -1,1 +1,43 @@
-/*  your css code here. If applicable */
+*{
+	background-color: rgb(204, 204, 204)	;
+}
+.heading{
+	text-align:center;
+}
+	.heading1{
+	text-align:center;
+		background-color:white
+}
+p{
+	background-color:white;
+}
+.Upper{
+	background-color:white;
+	border:1px solid black;
+	border-radius:10px;
+	width:90vw;
+	heigth:100px;
+	margin-inline:20px;
+}
+.Lower{
+	background-color:white;
+	border:1px solid black;
+	border-radius:10px;
+	width:80vw;
+	heigth:100px;
+	margin-inline:45px;
+}
+audio{
+background-color:white;
+	width:90%;
+	margin-inline:5%;
+}
+video{
+	width:70vw;
+	heigth:auto;
+	margin-inline:5vw;
+	margin-top:5vw;
+}
+p{
+	margin-left:20px;
+}
