@@ -6,7 +6,7 @@
 }
 	.heading1{
 	text-align:center;
-		background-color:white
+	background-color:white;
 }
 p{
 	background-color:white;
@@ -24,7 +24,7 @@ p{
 	border:1px solid black;
 	border-radius:10px;
 	width:80vw;
-	heigth:100px;
+	height:100px;
 	margin-inline:45px;
 }
 .player_two{
@@ -34,7 +34,7 @@ background-color:white;
 }
 .player_one{
 	width:70vw;
-	heigth:auto;
+	height:auto;
 	margin-inline:5vw;
 	margin-top:5vw;
 	background-color:rgb(255, 255, 255)
