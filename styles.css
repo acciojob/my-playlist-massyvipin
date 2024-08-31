@@ -37,10 +37,14 @@ background-color:white;
 	heigth:auto;
 	margin-inline:5vw;
 	margin-top:5vw;
+	background-color:rgb(255, 255, 255)
 }
 p{
 	margin-left:20px;
 }
-li{
+a{
 text-decoration-line: none;	
+}
+li{
+	list-style-type: none;
 }
